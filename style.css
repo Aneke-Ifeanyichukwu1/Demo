@@ -7,7 +7,7 @@
 
 body{
    background: #C7CCD8;
-   font-size: 30px ;
+   font-size: 22px ;
 }
 
 p{
@@ -38,7 +38,7 @@ input{
 }
 
 span{
-   font-size: 50px;
+   font-size: 40px;
    font-weight: bold;
    color: black;
    margin-right: 50px;
