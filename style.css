@@ -7,7 +7,7 @@
 
 body{
    background: #C7CCD8;
-   font-size: 22px ;
+   font-size: 20px ;
 }
 
 p{
@@ -79,7 +79,7 @@ nav,ul,li{
 
 nav,ul,li,a{
    color: white;
-   font-size: 28px;
+   font-size: 20px;
    font-weight: bold;
    padding: 5px;
 }
